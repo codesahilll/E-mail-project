@@ -1,1 +1,1 @@
-# E-mail-project
+//We are the students of Jai Narin college of technology,Bhopal. Our team Cybercraft has create an OOPM case stiudy of "Basic Email System".In our project we have are simulating an Email System with Inbox and  Message Sending Functionality. The language we are using is C++. 
